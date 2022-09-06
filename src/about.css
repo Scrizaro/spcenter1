@@ -1,0 +1,39 @@
+.flex-img {
+    width: 80%;
+    margin-bottom: 5%;
+    height: 700px;
+    position: relative;
+}
+.about-1 {
+    border: 1px solid red;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+}
+.about-2 {
+    border: 1px solid red;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    right: 0;
+}
+.about-3 {
+    border: 1px solid red;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    left: 0;
+    top: 330px;
+}
+.about-4 {
+    border: 1px solid red;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    right: 0;
+    top: 330px;
+}
+.collage {
+    height: 300px;
+    width: 500px;
+}
